@@ -1,5 +1,3 @@
-
-
 body{
     background-image: url(../img/bg.png);
     margin: auto;
@@ -12,3 +10,6 @@ img{
     height: auto;
 }
 
+#foot{
+    background-color:black;
+}
